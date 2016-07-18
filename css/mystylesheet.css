@@ -1,0 +1,9 @@
+.jumbotron {
+    background: url('../image/section4.png');
+    background-attachment: fixed;
+    max-height: 650px;
+    margin-top: 0x;
+    margin-bottom: 10px;
+    margin:10px;
+    padding:10px;
+}
