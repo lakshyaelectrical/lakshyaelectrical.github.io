@@ -22,6 +22,7 @@
     line-height: 15px;
     text-align: center;
     letter-spacing: 2px;
+    text-transform: uppercase;
 }
 #navigation ul {
     background-color: #e53935;
