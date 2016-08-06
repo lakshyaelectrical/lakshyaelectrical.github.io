@@ -135,9 +135,12 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
-#portfolio .col-sm-4 {
-   padding-top: 10px;
-   padding-bottom: 10px;
+#portfolio .col-sm-12 img {
+   margin-top: 18px;
+   margin-bottom: 18px;
+   padding-left: 10px;
+   padding-right: 10px;
+   width: 200px;
 }
 /*EndPortfolio*/
 
