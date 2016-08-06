@@ -16,8 +16,12 @@
 #navigation .left {
     float: left;
 }
-#navigation img {
-    margin-left: 20px;
+#navigation h2 {
+    font-size: 30px;
+    font-weight: 350;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 2px;
 }
 #navigation ul {
     background-color: #e53935;
@@ -57,15 +61,10 @@
     background: url('../image/Home/section4.png') no-repeat center bottom;
     min-height: 600px;
 }
-#home h1 {
-    font-size: 68px;
-    color: #ffffff;
-    text-transform: uppercase;
-    font-weight: 300;
-    line-height: 15px;
-    padding-top: 250px;
-    text-align: center;
-    letter-spacing: 9px;
+#home img {
+    max-width: 550px;
+    position: relative;
+    padding-top: 200px;
 }
 #home h2 {
     font-size: 68px;
